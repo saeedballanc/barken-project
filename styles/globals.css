@@ -1858,7 +1858,7 @@ div .row-55 .hexagon:nth-child(odd){
    position: absolute;
    width: 100vw;
    height: 91vh;
-   backdrop-filter: blur(32px);
+   backdrop-filter: blur(3px);
    z-index: -222;
  }
 
