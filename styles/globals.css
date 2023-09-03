@@ -1330,9 +1330,9 @@ div .row-55 .hexagon:nth-child(odd){
   .default-favorite{
 
     box-shadow:
-    inset 0 0 58px #ffffff7c,      /* inner white */
-    inset 0px 0 40px #ffffffad,   /* inner left magenta short */
-    inset 0px 0 10px #ffffff;
+    inset 0 0 30px #ffffff8c,      /* inner white */
+    inset 0px 0 20px #ffffffb2,   /* inner left magenta short */
+    inset 0px 0 10px #ffffffcb;
     background: black;
     width: 200px;
     height: 178px;
@@ -1345,8 +1345,8 @@ div .row-55 .hexagon:nth-child(odd){
   .default-favorite:hover{
 
     box-shadow:
-    inset 0 0 78px #ffffff,      /* inner white */
-    inset 0px 0 50px #ffffffe7,   /* inner left magenta short */
+    inset 0 0 50px #ffffff8c,      /* inner white */
+    inset 0px 0 30px #ffffffbd,   /* inner left magenta short */
     inset 0px 0 16px #ffffff;
   }
 

@@ -4,11 +4,11 @@
 
  .gradclass-1{
 
-     background-image: linear-gradient(-45deg ,rgb(255, 60, 0)0% , rgb(255, 196, 0)70% );
+     background-image: linear-gradient(-45deg ,#44e9eb , #4148d4 60%, #262626 );
  }
  .container-card-grad:hover .gradclassShadow-1{
 
-     box-shadow: -3px -3px 7px rgb(255, 196, 0),3px 3px 7px rgb(255, 60, 0);
+     box-shadow: -3px -3px 7px #44e9eb,3px 3px 7px #4148d4;
  }
 
 
@@ -43,4 +43,165 @@
        filter: hue-rotate(-0deg);
        background-image: linear-gradient(-45deg ,rgb(30, 255, 0)0% , hsl(157, 100%, 76%)70% );
     }
+}
+
+
+
+
+
+/*/////////////////////// GRAD-3*/
+
+.gradclass-3{
+
+    background-image: linear-gradient(-45deg ,#ebc444 , #d4414a , #2c2d29 );
+}
+.container-card-grad:hover .gradclassShadow-3{
+
+    box-shadow: -3px -3px 7px #d4414a,3px 3px 7px #ebc444;
+}
+
+
+
+
+/*/////////////////////// GRAD-4*/
+
+.gradclass-4{
+
+    background-image: linear-gradient(-45deg ,#262627 , #14b99f , #eaff3c , #ffdee3 );
+    animation: gradclass-4 2s linear infinite;
+}
+.container-card-grad:hover .gradclassShadow-4{
+
+    box-shadow: -3px -3px 7px #eaff3c,3px 3px 7px #14b99f;
+}
+
+
+
+@keyframes gradclass-4{
+
+     0%{
+
+        filter: hue-rotate(35deg);
+     }
+     50%{
+
+        filter: hue-rotate(0deg);
+     }
+     100%{
+
+        filter: hue-rotate(35deg);
+     }
+}
+
+
+
+/*/////////////////////// GRAD-5*/
+
+.gradclass-5{
+
+    background-image: linear-gradient(-45deg ,#262626 , #e73a12 , #ff6c00 , #fffee6 );
+}
+.container-card-grad:hover .gradclassShadow-5{
+
+    box-shadow: -3px -3px 7px #e73a12,3px 3px 7px #ff6c00;
+}
+
+
+
+/*/////////////////////// GRAD-6*/
+
+.gradclass-6{
+
+    background-image: linear-gradient(-45deg ,#84a5b8 , #d7dece, #273135 );
+}
+.container-card-grad:hover .gradclassShadow-6{
+
+    box-shadow: -3px -3px 7px #273135,3px 3px 7px #84a5b8;
+}
+
+
+
+
+/*/////////////////////// GRAD-7*/
+
+.gradclass-7{
+
+    background-image: linear-gradient(-45deg ,#262626 , #c612e7, #fff000 , #fffeed );
+}
+.container-card-grad:hover .gradclassShadow-7{
+
+    box-shadow: -3px -3px 7px #fff000,3px 3px 7px #c612e7;
+}
+
+
+
+
+/*/////////////////////// GRAD-8*/
+
+.gradclass-8{
+
+    background-image: linear-gradient(-45deg ,#0686fe , #06b8fe, #f7ffc6 );
+}
+.container-card-grad:hover .gradclassShadow-8{
+
+    box-shadow: -3px -3px 7px #06b8fe,3px 3px 7px #0686fe;
+}
+
+
+
+
+/*/////////////////////// GRAD-9*/
+
+.gradclass-9{
+
+    background-image: linear-gradient(-45deg ,#262626 , #3fa7a9, #ffbcbd );
+}
+.container-card-grad:hover .gradclassShadow-9{
+
+    box-shadow: -3px -3px 7px #ffbcbd,3px 3px 7px #3fa7a9;
+}
+
+
+
+
+/*/////////////////////// GRAD-10*/
+
+.gradclass-10{
+
+    background-image: linear-gradient(-45deg ,#262626 , #ff0000, #00ccff , #e9fffa);
+}
+.container-card-grad:hover .gradclassShadow-10{
+
+    box-shadow: -3px -3px 7px #00ccff,3px 3px 7px #ff0000;
+}
+
+
+
+
+
+/*/////////////////////// GRAD-11*/
+
+.gradclass-11{
+
+    background-image: linear-gradient(-45deg ,#262626 , #ff0000, #ffb178 , #e9fffa);
+}
+.container-card-grad:hover .gradclassShadow-11{
+
+    box-shadow: -3px -3px 7px #ffb178,3px 3px 7px #ff0000;
+}
+
+
+
+
+
+
+/*/////////////////////// GRAD-12*/
+
+.gradclass-12{
+
+    background-image: linear-gradient(-45deg ,#262626 , #612c6a, #4a79b3 , #47c1df , #ffffff);
+}
+.container-card-grad:hover .gradclassShadow-12{
+
+    box-shadow: -3px -3px 7px #47c1df,3px 3px 7px #612c6a;
 }

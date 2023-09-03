@@ -117,7 +117,7 @@ import { useContext, useEffect } from 'react';
                  Recent Gradients
 
                </h1>
-
+               
 
             <div style={{display:'flex'}}>
 
