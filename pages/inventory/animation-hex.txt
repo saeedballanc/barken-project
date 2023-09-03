@@ -1,0 +1,274 @@
+
+
+
+ /* .row-10 .hexagon{
+
+   animation: suchbutidule 4s linear infinite;
+ } */
+
+
+
+  .row-8 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-delay: 0s;
+ }
+
+ 
+  
+ .row-8 .hexagon:nth-child(6),.row-9 .hexagon:nth-child(5) , .row-10 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 0.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(7),.row-9 .hexagon:nth-child(6),.row-10 .hexagon:nth-child(6),
+ .row-11 .hexagon:nth-child(5),.row-12 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 1s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(8),.row-9 .hexagon:nth-child(7),.row-10 .hexagon:nth-child(7),
+ .row-11 .hexagon:nth-child(6),.row-12 .hexagon:nth-child(6),.row-13 .hexagon:nth-child(5),
+ .row-14 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 1.5s;
+ }
+ 
+
+
+ .row-8 .hexagon:nth-child(9),.row-9 .hexagon:nth-child(8),
+ .row-10 .hexagon:nth-child(8),.row-11 .hexagon:nth-child(7),.row-12 .hexagon:nth-child(7),
+ .row-13 .hexagon:nth-child(6),.row-14 .hexagon:nth-child(6),.row-15 .hexagon:nth-child(5),
+ .row-16 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 2s;
+ }
+
+
+ 
+ .row-8 .hexagon:nth-child(10),.row-9 .hexagon:nth-child(9),
+ .row-10 .hexagon:nth-child(9),.row-11 .hexagon:nth-child(8),.row-12 .hexagon:nth-child(8),
+ .row-13 .hexagon:nth-child(7),.row-14 .hexagon:nth-child(7),.row-15 .hexagon:nth-child(6),
+ .row-16 .hexagon:nth-child(6),.row-17 .hexagon:nth-child(5){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 2.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(11),.row-9 .hexagon:nth-child(10),
+ .row-10 .hexagon:nth-child(10),.row-11 .hexagon:nth-child(9),.row-12 .hexagon:nth-child(9),
+ .row-13 .hexagon:nth-child(8),.row-14 .hexagon:nth-child(8),.row-15 .hexagon:nth-child(7),
+ .row-16 .hexagon:nth-child(7),.row-17 .hexagon:nth-child(6){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 3s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(12),.row-9 .hexagon:nth-child(11),
+ .row-10 .hexagon:nth-child(11),.row-11 .hexagon:nth-child(10),.row-12 .hexagon:nth-child(10),
+ .row-13 .hexagon:nth-child(9),.row-14 .hexagon:nth-child(9),.row-15 .hexagon:nth-child(8),
+ .row-16 .hexagon:nth-child(8),.row-17 .hexagon:nth-child(7){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 3.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(13),.row-9 .hexagon:nth-child(12),
+ .row-10 .hexagon:nth-child(12),.row-11 .hexagon:nth-child(11),.row-12 .hexagon:nth-child(11),
+ .row-13 .hexagon:nth-child(10),.row-14 .hexagon:nth-child(10),.row-15 .hexagon:nth-child(9),
+ .row-16 .hexagon:nth-child(9),.row-17 .hexagon:nth-child(8){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 4s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(14),.row-9 .hexagon:nth-child(13),
+ .row-10 .hexagon:nth-child(13),.row-11 .hexagon:nth-child(12),.row-12 .hexagon:nth-child(12),
+ .row-13 .hexagon:nth-child(11),.row-14 .hexagon:nth-child(11),.row-15 .hexagon:nth-child(10),
+ .row-16 .hexagon:nth-child(10),.row-17 .hexagon:nth-child(9){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 4.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(15),.row-9 .hexagon:nth-child(14),
+ .row-10 .hexagon:nth-child(14),.row-11 .hexagon:nth-child(13),.row-12 .hexagon:nth-child(13),
+ .row-13 .hexagon:nth-child(12),.row-14 .hexagon:nth-child(12),.row-15 .hexagon:nth-child(11),
+ .row-16 .hexagon:nth-child(11),.row-17 .hexagon:nth-child(10){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(16),.row-9 .hexagon:nth-child(15),
+ .row-10 .hexagon:nth-child(15),.row-11 .hexagon:nth-child(14),.row-12 .hexagon:nth-child(14),
+ .row-13 .hexagon:nth-child(13),.row-14 .hexagon:nth-child(13),.row-15 .hexagon:nth-child(12),
+ .row-16 .hexagon:nth-child(12),.row-17 .hexagon:nth-child(11){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 5.5s;
+ }
+
+
+ .row-8 .hexagon:nth-child(16),.row-9 .hexagon:nth-child(15),
+ .row-10 .hexagon:nth-child(15),.row-11 .hexagon:nth-child(14),.row-12 .hexagon:nth-child(14),
+ .row-13 .hexagon:nth-child(13),.row-14 .hexagon:nth-child(13),.row-15 .hexagon:nth-child(12),
+ .row-16 .hexagon:nth-child(12),.row-17 .hexagon:nth-child(11){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 6s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(17),.row-9 .hexagon:nth-child(16),
+ .row-10 .hexagon:nth-child(16),.row-11 .hexagon:nth-child(15),.row-12 .hexagon:nth-child(15),
+ .row-13 .hexagon:nth-child(14),.row-14 .hexagon:nth-child(14),.row-15 .hexagon:nth-child(13),
+ .row-16 .hexagon:nth-child(13),.row-17 .hexagon:nth-child(12){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 6.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(18),.row-9 .hexagon:nth-child(17),
+ .row-10 .hexagon:nth-child(17),.row-11 .hexagon:nth-child(16),.row-12 .hexagon:nth-child(16),
+ .row-13 .hexagon:nth-child(15),.row-14 .hexagon:nth-child(15),.row-15 .hexagon:nth-child(14),
+ .row-16 .hexagon:nth-child(14),.row-17 .hexagon:nth-child(13){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 7s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(19),.row-9 .hexagon:nth-child(18),
+ .row-10 .hexagon:nth-child(18),.row-11 .hexagon:nth-child(17),.row-12 .hexagon:nth-child(17),
+ .row-13 .hexagon:nth-child(16),.row-14 .hexagon:nth-child(16),.row-15 .hexagon:nth-child(15),
+ .row-16 .hexagon:nth-child(15),.row-17 .hexagon:nth-child(14){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 7.5s;
+ }
+
+
+
+ .row-8 .hexagon:nth-child(20),.row-9 .hexagon:nth-child(19),
+ .row-10 .hexagon:nth-child(19),.row-11 .hexagon:nth-child(18),.row-12 .hexagon:nth-child(18),
+ .row-13 .hexagon:nth-child(17),.row-14 .hexagon:nth-child(17),.row-15 .hexagon:nth-child(16),
+ .row-16 .hexagon:nth-child(16),.row-17 .hexagon:nth-child(15){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 8s;
+ }
+
+
+
+ .row-11 .hexagon:nth-child(19),.row-12 .hexagon:nth-child(19),
+ .row-13 .hexagon:nth-child(18),.row-14 .hexagon:nth-child(18),.row-15 .hexagon:nth-child(17),
+ .row-16 .hexagon:nth-child(17),.row-17 .hexagon:nth-child(16){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 8.5s;
+ }
+
+
+
+ .row-13 .hexagon:nth-child(19),.row-14 .hexagon:nth-child(19),.row-15 .hexagon:nth-child(18),
+ .row-16 .hexagon:nth-child(18),.row-17 .hexagon:nth-child(17){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 9s;
+ }
+
+
+
+ .row-15 .hexagon:nth-child(19),
+ .row-16 .hexagon:nth-child(19),.row-17 .hexagon:nth-child(18){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 9.5s;
+ }
+
+
+
+ .row-17 .hexagon:nth-child(19){
+
+   animation: suchbutidule 4s linear infinite;
+   animation-play-state: start;
+   animation-delay: 10s;
+ }
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ @keyframes suchbutidule {
+  
+   0%{
+
+    opacity: 1;
+   }
+
+   50%{
+
+    box-shadow:
+    inset 0 0 50px #ffffffe3,      /* inner white */
+    inset 20px 0 80px rgb(255, 0, 128),   /* inner left magenta short */
+    inset -20px 0 80px rgb(89, 0, 255);
+    opacity: 1;
+   }
+   100%{
+   
+      opacity: 1;
+   }
+
+ }
