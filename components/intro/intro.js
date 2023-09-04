@@ -64,7 +64,7 @@ const Intro =(props)=>{
         <div className="container-all-intro">
 
 
-         <p>2 Gradients . React & Vue libraries</p>
+         <p>{props.changeModeApi.length} Gradients . React & Vue libraries</p>
 
          <h1>Static and Dinamic Gradients, You Can Join US and Add To The Gradients</h1>
         
